@@ -41,3 +41,7 @@ Examples to implement OCR(Optical Character Recognition) using tesseract using P
   pip install wand
   ```
  
+ # Contributors
+ - Ahammad Hani
+ - Ajay V
+ - Dinu D'Silva
